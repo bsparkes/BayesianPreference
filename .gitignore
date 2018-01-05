@@ -1,7 +1,12 @@
 /Icon
 /.DS_Store
 /.dropbox
-/Data/Analysis Functions/BasicModelScenarioAnalysis.js
+/analysis/
+/auto/
 /Data/
-/Old Scripts/Useless Stuff/data.txt
-/TURK/MTurk Options.txt
+/Old Scripts/
+/Paper/
+/presentation/
+/SparkesThompsonProjectFiles/
+/TURK/
+/Turk Analysis/

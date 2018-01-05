@@ -1,6 +1,6 @@
 /*
  * A collection of functions to help analyse the results of the main function
- */
+  */
 
 
 
@@ -150,10 +150,10 @@ var prefNormalForm = function(array) {
  * Basically combining duplicate orders and and their respective probabilities.
  */
 
- /*
-  * Input is always an array of arrays, in which the first element is the
-  * preference order and the second element is the probability.
-  */
+/*
+ * Input is always an array of arrays, in which the first element is the
+ * preference order and the second element is the probability.
+ */
 
 /*
  * First a function to get the formal form of an array.
